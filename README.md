@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=WithKKM&fontSize=120)
 
-# **Coding Freshman**
 
 #### #_HUFS Indian Studies + Global Business & Technology_
 
